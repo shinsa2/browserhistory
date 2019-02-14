@@ -27,22 +27,3 @@ h1, h2 {
 img {
   float: left;
 }
-
-.left {
-  float: left;
-  width: 300px;
-  padding: 1em;
-}
-
-.right {
-  float: right;
-  width: 300px;
-  padding: 1em;
-}
-
-.middle {
-  margin-left: 500px;
-  margin-right: 500px;
-  width: 300px;
-  padding: 1em;
-}
