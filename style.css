@@ -1,0 +1,29 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: darkblue;
+  margin: 10px 50px 10px 50px;
+  background-color: ivory;
+}
+
+#navigation ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navigation li {
+  display: inline;
+}
+
+#navigation a {
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+h1, h2 {
+  font-family: 'Oswald', sans-serif;
+}
+
+img {
+  float: left;
+}
