@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="99dcc1db-b47a-4015-bca7-cfa85670ace5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -47,6 +48,8 @@
   </component>
 =======
 >>>>>>> 3b7a8dc9aa5bb9166ab7b9af83572a856f51cd0d
+=======
+>>>>>>> 3b7a8dc9aa5bb9166ab7b9af83572a856f51cd0d
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -73,6 +76,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,6 +135,8 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
+=======
+>>>>>>> 3b7a8dc9aa5bb9166ab7b9af83572a856f51cd0d
 =======
 >>>>>>> 3b7a8dc9aa5bb9166ab7b9af83572a856f51cd0d
   <component name="masterDetails">
